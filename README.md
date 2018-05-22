@@ -2,15 +2,14 @@
 
 ## Turma 05J12
 
-## Nome do Projeto: (*Escreva aqui o nome do projeto*)
+## Nome do Projeto: Lâmpada Sensorial
 
 ## Integrantes do Grupo:
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
+* Kaue Henrique Zavala 
+* Liliana Akina Baba
+* Marcelo Oliveira Baronian
+* Mirella de Almeida Massotti
 
 ## Documentação: (*Coloque os documentos na pasta docs*)
 
