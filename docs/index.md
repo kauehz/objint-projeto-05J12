@@ -6,7 +6,6 @@ Se o usuário esquecer alguma luz da casa acesa, através do arduino, ela poder�
 
 ## Diagrama de implantação
 
-Faça um diagrama de implantação. Exemplo:
 
 ![](1.png)
 
