@@ -12,6 +12,5 @@ Se o usuário esquecer alguma luz da casa acesa, através do arduino, ela poder�
 
 ## Montagem do dispositivo
 
-Faça um diagrama de montagem do dispositivo. Exemplo:
 
-![](montagem.png)
+![](2.png)
